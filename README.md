@@ -91,6 +91,19 @@ You will receive a detailed itinerary and calendar file by email.
 
 ---
 
+## 🖼️ Screenshots & Visuals
+
+Below are some example screenshots of the Travel Concierge Specialist in action:
+
+#### Traces from OpenAI dashboard
+![OpenAIDashboard](assets/traces.png)
+
+##### Email with itenary and respective calender appointments
+![Plan and Appointments](assets/email.png)
+
+---
+
+
 ## 📂 Main Components
 
 - [`travel-concierge-planner.ipynb`](travel-concierge-planner.ipynb): Main notebook with all agent and tool definitions.
